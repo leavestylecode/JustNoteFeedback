@@ -1,45 +1,30 @@
 **Privacy Policy**
 
+This privacy policy is designed to help you understand how we handle your data when you use JustNote:Capture Insights. We are committed to protecting your privacy and ensuring transparency in our data practices.
+
 This privacy policy applies to the JustNote:Capture Insights app (hereby referred to as "Application") for mobile devices that was created by Leavestyle Code Studio (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application does not collect any personal information from users. All user data is stored securely in Apple's iCloud service, which is subject to Apple's privacy policy and terms of service. The Service Provider does not have access to your personal data stored in iCloud.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+Your notes and other content are automatically synced to your iCloud account when you enable iCloud sync in the Application. This synchronization is handled entirely by Apple's iCloud service, and the Service Provider has no access to this data.
 
-The Application does not gather precise information about the location of your mobile device.
+**User Rights**
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
-
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+You have complete control over your data:
+- You can enable or disable iCloud sync at any time
+- You can delete your data from iCloud through your Apple account settings
+- You can export your data from the Application
+- You can request a copy of your data by contacting us
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-**Opt-Out Rights**
-
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+The Application does not transmit any data to external services. All data is stored exclusively in your iCloud account, which is managed by Apple.
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at leavestyle101@gmail.com and they will respond in a reasonable time.
+Since the Application does not collect or store any user data directly, there is no data retention policy. Your data is managed according to Apple's iCloud terms of service and your iCloud account settings.
 
 **Children**
 
@@ -49,7 +34,7 @@ The Service Provider does not knowingly collect personally identifiable informat
 
 **Security**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider is committed to protecting your privacy. Since the Application does not collect or store any user data directly, all data security is handled by Apple's iCloud service, which provides robust security measures to protect your data.
 
 **Changes**
 
@@ -61,10 +46,10 @@ This privacy policy is effective as of 2025-04-24
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
+**Legal Jurisdiction**
+
+This Privacy Policy is governed by and construed in accordance with the laws of the jurisdiction in which the Service Provider operates. Any disputes relating to this policy shall be subject to the exclusive jurisdiction of the courts in that jurisdiction.
+
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at leavestyle101@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at leavestyle101@gmail.com. 
