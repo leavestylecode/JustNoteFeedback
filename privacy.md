@@ -13,10 +13,8 @@ Your notes and other content are automatically synced to your iCloud account whe
 **User Rights**
 
 You have complete control over your data:
-- You can enable or disable iCloud sync at any time
+- You can enable or disable iCloud sync at any time in ios settings
 - You can delete your data from iCloud through your Apple account settings
-- You can export your data from the Application
-- You can request a copy of your data by contacting us
 
 **Third Party Access**
 
